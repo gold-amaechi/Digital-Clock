@@ -1,0 +1,19 @@
+body {
+  margin: 0%;
+  padding: 0%;
+  background-color: black;
+  color: white;
+}
+
+h1 {
+text-align: center;
+}
+
+.container {
+  font-size: 65px;
+  font-weight: solid;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
